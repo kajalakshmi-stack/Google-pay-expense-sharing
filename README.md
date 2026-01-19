@@ -14,6 +14,5 @@ Features
      -Suggests payments between friends
 
 Example output
-       ![final settlements](<img width="1920" height="1080" alt="final output png" src="https://github.com/user-attachments/assets/99c7ebea-c813-4047-a766-09afc2d1d86f" />
-)
+       ![final settlements](final_output.png)
          
